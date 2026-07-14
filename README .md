@@ -25,9 +25,3 @@ PrimeTrade_Assignment/
 - README.md
 - requirements.txt
 
-## How to Run
-pip install -r requirements.txt
-Open the notebook and run all cells.
-
-## Note
-If sentiment values are all NaN after merging, verify that both datasets share the same date range.
